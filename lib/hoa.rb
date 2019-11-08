@@ -11,4 +11,4 @@ def add_character(show, name)
   show[:chipmunks] << name
   show[:third_earthers] << name
   show[:jetsons] << name
-en
+end
